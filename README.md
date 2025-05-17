@@ -1,6 +1,16 @@
 # password-profiler
 
-password recovery tool 
-- hashcat utility
-- password cracking
-- disclaimer
+# DeepSearch
+
+
+### Description  
+
+### Features  
+
+
+### Requirements  
+
+
+Install dependencies with:  
+```bash
+pip install -r requirements.txt
